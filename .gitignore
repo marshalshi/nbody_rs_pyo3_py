@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.py[cod]
+*.egg
+build
+htmlcov
+
+*/target
+*/rnbody_pyo3.egg-info
+*.so
+**/__pycache__/
