@@ -47,7 +47,7 @@ Run following commands 100 times each with different steps value.
 
 Performance chart:
 
-Split chart into two charts since 10K and 10M have quite large gap.
+Split chart into two charts since 10K and 10M have quite large scale differences.
 
 .. image:: images/10k_100k.png
 
